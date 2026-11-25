@@ -11,3 +11,6 @@ Minimum install set:
 - SDI Core (14 items)
 Optional:
 - SDI Second Generation modules
+
+Original texts:
+- The original Japanese texts of SDI (all 15 items) and LDRT (all 5 items), exactly as handed to Muse, are stored in the 原典 folder, with a SHA-256 index for verification: 原典/索引.md
